@@ -3,7 +3,8 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/jose-carlos-gon%C3%A7alves-neto-ba6a35200/?skipRedirect=true"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.instagram.com/gon.netto/"><img height="30" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/social/instagram.svg">&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/jose-carlos-gon%C3%A7alves-neto-ba6a35200/?skipRedirect=true"><img height="30" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/social/linkedin.svg">
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> José Carlos Gonçalves Neto | 💻 Full Stack Developer | São Paulo, Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
