@@ -11,22 +11,14 @@
 </div>
  
 <br />
- <p align="center">
-  <h4> Full Stack Programming </h4>
-   </p>
-
-<!--  -->
-
 <p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=nettogon&&show_icons=true&theme=radical"/>
   </a>
-
 </p>
-
 <br />
 
-### - Languages and Tools...
+### -> Languages and Tools...
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
