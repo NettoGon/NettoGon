@@ -1,8 +1,5 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://wa.me/18997039485">José Carlos</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
-   
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
 <p align='center'>
@@ -13,30 +10,15 @@
 </div>
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-<p align="center">
-  <h3> I'm 20 years old Full-Stack developer from Brazil.</h3>
-</p>
-
- - 🥀 Learning Swift & Objective_C
- 
- - <i>with Javascript, Typescript, React and 69 others.</i>
-   
- - 🔭 SpaceX FanBoi, die for space😼
- 
- - All About living life at its best.
- 
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
- 
  <p align="center">
-  <h4> Full Stack | Competitive Programming </h4>
+  <h4> Full Stack Programming </h4>
    </p>
 
 <!--  -->
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=nettogon&&show_icons=true&theme=radical"/>
   </a>
 
 </p>
